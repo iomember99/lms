@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# SQLite DB
+*.db
+*.sqlite3
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Environment files
+.env
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# Migrations (if using Alembic or Django-style)
+migrations/
+
+# Compiled files
+*.egg-info/
+dist/
+build/

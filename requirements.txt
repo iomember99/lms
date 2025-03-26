@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+httpx
+zeep
+python-multipart
+pydantic-settings
+pytest
+pytest-asyncio
+flake8
+black
+mypy
+bandit
